@@ -2,7 +2,7 @@
 
 > A lightning-fast, zero-dependency Python web app to import Excel sheets into your MySQL database in seconds.
 
-![App Interface](images/interface.img)
+![App Interface](images/interface.png)
 
 *Refer to the UI screenshot above (located at `images/interface.img`).*
 
@@ -26,7 +26,7 @@ Importing Excel data into MySQL can be tedious: manual CSV exports, custom scrip
    ```bash
    python app.py
    ```
-4. **Open** your browser at [http://127.0.0.1:5000](http://127.0.0.1:5000) and verify the interface (see `images/interface.img`).
+4. **Open** your browser at [http://127.0.0.1:5000](http://127.0.0.1:5000) and verify the interface (see `images/interface.png`).
 
 ## 🗂 Project Structure
 
